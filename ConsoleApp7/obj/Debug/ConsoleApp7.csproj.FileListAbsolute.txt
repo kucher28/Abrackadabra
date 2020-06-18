@@ -1,0 +1,12 @@
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\Eco.Handles.dll
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\Eco.Interfaces.dll
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\Eco.LinqExtender.dll
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\bin\Debug\System.Buffers.dll
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\kuche\Desktop\Учеба 2 курс\Разработка кода информационных систем\2 курс\c#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
